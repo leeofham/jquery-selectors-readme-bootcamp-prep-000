@@ -21,5 +21,5 @@ function divSelector(){
 
 function firstListItem(){
   var firstItem = $("ul li=#pic-list");
-  retrun firstItem;
+  return firstItem;
 }
