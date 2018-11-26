@@ -18,3 +18,8 @@ function divSelector(){
   var content = $(".pics");
   return content;
 }
+
+function firstListItem(){
+  firstItem = $("ul pic-list");
+  retrun firstItem;
+}
