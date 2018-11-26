@@ -20,6 +20,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  var firstItem = $("li img:first-child");
+  var firstItem = $("div img:first-child");
   return firstItem;
 }
